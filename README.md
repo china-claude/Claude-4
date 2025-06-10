@@ -1,19 +1,19 @@
 # Claude 4 国内免费使用指南~ （支持 Claude Sonnet 4，无需翻墙）【2025年6月更新】
 
-> **更新时间：2025/06/10**           
+> **更新时间：2025/06/11**           
 
-国内能轻松使用的 [**Claude 中文版**](https://chat.lanjing.pro) 教程，**无需翻墙**，**支持 Claude 4、Claude 3.7 及中文版功能**   
+国内能轻松使用的 [**Claude 中文版**](https://chat.lanjingai.org) 教程，**无需翻墙**，**支持 Claude 4、Claude 3.7 及中文版功能**   
 
-本指南提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://xsimplechat.com)、[**Claude 国内入口**](https://chat.lanjing.pro)、[**Claude 官网平替**](https://xsimplechat.com) 和详细使用教程，帮助您快速使用上 Claude~
+本指南提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://xsimplechat.com)、[**Claude 国内入口**](https://chat.lanjingai.org)、[**Claude 官网平替**](https://xsimplechat.com) 和详细使用教程，帮助您快速使用上 Claude~
 
-**Claude 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**Claude 中文版入口：[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
 **Claude 镜像网站：[https://chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
 
 ## 什么是 Claude 中文版？
 
-[**Claude 中文版**](https://chat.lanjing.pro) 是 Anthropic的 Claude 模型的中文使用版本，专为中文用户设计，提供更流畅、更精准的 AI对话体验。   
+[**Claude 中文版**](https://chat.lanjingai.org) 是 Anthropic的 Claude 模型的中文使用版本，专为中文用户设计，提供更流畅、更精准的 AI对话体验。   
 相较于官网，**Claude 中文版**在以下方面更适合国内用户：
 
 - **无需翻墙**：通过国内网站访问，无须额外的代理工具。
@@ -28,10 +28,10 @@
 
 | 网站链接                                                       | 网站名称            | 支持功能                                                                                  |
 |---------------------------------------------------------------|---------------------|-------------------------------------------------------------------------------------------|
-| [chat.lanjing.pro](https://chat.lanjing.pro/)                 | Claude 中文版       | 支持 Claude-4、Claude-3.7、GPT-o1、o3及Groq-3，支持 AI绘画，扫码就能用~                 |
+| [chat.lanjingai.org](https://chat.lanjingai.org/)                 | Claude 中文版       | 支持 Claude-4、Claude-3.7、GPT-o1、o3及Groq-3，支持 AI绘画，扫码就能用~                 |
 | [xsimplechat.com](https://xsimplechat.com/)                   | Claude 中文站       | 支持 Claude 4 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~      |
 | [chat.lify.vip](https://chat.yixiaai.com)                     | Claude 镜像网站     | 支持 Claude-4、Claude-3.7、GPT-o1、o3及Groq-3，AI文件、AI PPT、AI助手、AI插件功能、思维导图~|
-| [chat.chatgpt-chinese.com](https://chat.lanjing.pro/)         | ChatGPT 镜像网站    | 支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）                                           |
+| [chat.chatgpt-chinese.com](https://chat.lanjingai.org/)         | ChatGPT 镜像网站    | 支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）                                           |
 | [ai.lansejingyu.com](https://ai.lansejingyu.com/)             | ChatGPT-4 镜像     | 支持 GPT4、4o，简单便捷~                                                                  |
 | [lanjing.ai](https://lanjing.pro/)                           | 免费ChatGPT         | 支持 GPT4、4o 支持 MJ 绘画                                                                |
 
@@ -62,7 +62,7 @@
 
 ## 国内如何使用 Claude 中文版？
 
-1. **选择网页版**：访问推荐的国内入口（如 **蓝鲸AI ([chat.lanjing.pro](https://chat.lanjing.pro))**）。
+1. **选择网页版**：访问推荐的国内入口（如 **蓝鲸AI ([chat.lanjingai.org](https://chat.lanjingai.org))**）。
 2. **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
 3. **选择模型**：根据需求选择 grok3 模型。
 4. **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
